@@ -1,6 +1,8 @@
 # pos
 Cloud Based Point of Sale Application for Nion Enterprise.
 
+[Live demo](http://mursalin-pos.byethost4.com/)
+
 <h3>Description</h3>
 <div>This is a web-based showroom management system where owner can monitor the sales report, stock reports balance sheet and everything from anywhere through the internet. Here, I used HTML, CSS, BOOTSTRAP, JavaScript for design the front end. Use PHP for develop backend and MySQL as a database. 
 </div>
